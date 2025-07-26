@@ -818,7 +818,7 @@ export default function Page() {
                                         }
                                     </div>
                                     
-                                    <div className="deck-availability absolute top-1/50">
+                                    <div className="deck-availability absolute top-1/50 left-1/100">
                                         <div className="flex">
                                             {
                                                 deck.availability.map((item, i) => {
