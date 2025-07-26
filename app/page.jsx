@@ -823,7 +823,7 @@ export default function Page() {
                                             {
                                                 deck.availability.map((item, i) => {
                                                     return (
-                                                        <span className="bg-purple-500 text-white text-sm uppercase font-semibold rounded-full py-1 px-2 mr-1">{item}</span>
+                                                        <span key={i}  className="bg-purple-500 text-white text-sm uppercase font-semibold rounded-full py-1 px-2 mr-1">{item}</span>
                                                     );
                                                 })
                                             }
