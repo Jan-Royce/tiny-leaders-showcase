@@ -34,7 +34,8 @@ const decks= [
         description: "Beat your opponents with deathtouch and poison counters.",
         url: "https://moxfield.com/decks/BG8jvOsPQk-ihvGMNpYk7A",
         photo: "",
-        colors: ['g']
+        colors: ['g'],
+        availability: ['digital']
     },
     {
         name: "Azorious Mill",
@@ -57,7 +58,8 @@ const decks= [
         description: "Gain a lot of life while milling everybody out.",
         url: "https://moxfield.com/decks/veOFmHPTAUagvM03jBOsHQ",
         photo: "",
-        colors: ['w', 'u']
+        colors: ['w', 'u'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Orzhov Sacrifice",
@@ -108,7 +110,8 @@ const decks= [
         description: "Classic Orzhov aristocrats. Kill 'em slowly.",
         url: "https://moxfield.com/decks/pDQst7COakW0sxD7-aJ0IA",
         photo: "",
-        colors: ['w', 'b']
+        colors: ['w', 'b'],
+        availability: ['digital']
     },
     {
         name: "Orzhov Vampires",
@@ -145,7 +148,8 @@ const decks= [
         description: "Vampire Tribal!",
         url: "https://moxfield.com/decks/cq8Efqrb3U28DUnJJdi0zg",
         photo: "",
-        colors: ['w', 'b']
+        colors: ['w', 'b'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Boros Tokens",
@@ -168,7 +172,8 @@ const decks= [
         description: "Go wide and swing with small creatures.",
         url: "https://moxfield.com/decks/q9xAPXE2T0mKBn_dbKyVbQ",
         photo: "",
-        colors: ['w', 'r']
+        colors: ['w', 'r'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Selesnya Counters",
@@ -205,7 +210,8 @@ const decks= [
         description: "Slowly but surely grow your creatures and trample over your opponents.",
         url: "https://moxfield.com/decks/eAJeVN7jMUq4A_jX2XgIxw",
         photo: "",
-        colors: ['w', 'g']
+        colors: ['w', 'g'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Selesnya Hug",
@@ -228,7 +234,8 @@ const decks= [
         description: "Help some opponents in need and create temporary alliances to benefit your own cause or maybe just kingmake all the way?",
         url: "https://moxfield.com/decks/pnLdg_wIqE-dSCCPJ14b9Q",
         photo: "",
-        colors: ['w', 'g']
+        colors: ['w', 'g'],
+        availability: ['digital']
     },
     {
         name: "Dimir Faeries",
@@ -251,7 +258,8 @@ const decks= [
         description: "Control the board with your spells and slowly chip away at everyone with tiny faeries.",
         url: "https://moxfield.com/decks/rqcjvj-5ZE6qrLbvMkD3mw",
         photo: "",
-        colors: ['u', 'b']
+        colors: ['u', 'b'],
+        availability: ['paper']
     },
     {
         name: "Dimir Ninjas",
@@ -302,7 +310,8 @@ const decks= [
         description: "Be stealthy and lethal.",
         url: "https://moxfield.com/decks/VWWRqqHR2EeyXZkvCOIwgg",
         photo: "",
-        colors: ['u', 'b']
+        colors: ['u', 'b'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Izzet Aggro",
@@ -339,7 +348,8 @@ const decks= [
         description: "Sling spells and press the attack, all while maintaining card advantage.",
         url: "https://moxfield.com/decks/31bhJl-z5kG_EpTOHahCng",
         photo: "",
-        colors: ['u', 'r']
+        colors: ['u', 'r'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Izzet Group Slug",
@@ -390,7 +400,8 @@ const decks= [
         description: "Feel bad going for individual opponents? Hit them all at once then, no favorites.",
         url: "https://moxfield.com/decks/vdSECIIpg0qqn-s52qpkFg",
         photo: "",
-        colors: ['u', 'r']
+        colors: ['u', 'r'],
+        availability: ['digital']
     },
     {
         name: "Simic Shenanigans",
@@ -413,7 +424,8 @@ const decks= [
         description: "Win by casting massive X spells or get a spicy win with the <a href='https://scryfall.com/card/gtc/146/biovisionary' target='_blank'>Biovisionary</a>.",
         url: "https://moxfield.com/decks/A6I3NmDrJkS8tC49Qu0vSw",
         photo: "",
-        colors: ['u', 'g']
+        colors: ['u', 'g'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Rakdos Aggro",
@@ -464,7 +476,8 @@ const decks= [
         description: "Go ham with shamans and elementals knowing that you can consistently bring them back from the dead.",
         url: "https://moxfield.com/decks/7A21ZRh3y0Cj_b3vMMIaAQ",
         photo: "",
-        colors: ['b', 'r']
+        colors: ['b', 'r'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Rakdos Outlaws",
@@ -515,7 +528,8 @@ const decks= [
         description: "This is the wild west, go do crimes, murder their commanders. Yeehaw!",
         url: "https://moxfield.com/decks/K5LTRNZkjEaIhRtS9X3Ygw",
         photo: "",
-        colors: ['b', 'r']
+        colors: ['b', 'r'],
+        availability: ['digital']
     },
     {
         name: "Golgari Food Time",
@@ -566,7 +580,8 @@ const decks= [
         description: "Create tons of food and squirrel tokens. Go nuts!",
         url: "https://moxfield.com/decks/n9pVp-nRu0uIWSZRbsAWpw",
         photo: "",
-        colors: ['b', 'g']
+        colors: ['b', 'g'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Golgari Elves",
@@ -617,7 +632,8 @@ const decks= [
         description: "Elf tribal. Nothing more, nothing less.",
         url: "https://moxfield.com/decks/n_F7brXblk6D5uHZsdDrJA",
         photo: "",
-        colors: ['b', 'g']
+        colors: ['b', 'g'],
+        availability: ['digital']
     },
     {
         name: "Gruul Stompy",
@@ -682,7 +698,8 @@ const decks= [
         description: "Go big, fast.",
         url: "https://moxfield.com/decks/WhtKvR--fU-U5zCTLcjEZg",
         photo: "",
-        colors: ['r', 'g']
+        colors: ['r', 'g'],
+        availability: ['paper', 'digital']
     },
     {
         name: "Flubs",
@@ -705,7 +722,8 @@ const decks= [
         description: "Go be a goofy frog. Then win, right?",
         url: "https://moxfield.com/decks/Z7y7KcLbJ0CVzNjIFV2b-w",
         photo: "",
-        colors: ['u', 'r', 'g']
+        colors: ['u', 'r', 'g'],
+        availability: ['digital']
     },
     // Deck Template
     // {
@@ -743,7 +761,8 @@ const decks= [
     //     description: "",
     //     url: "",
     //     photo: "",
-    //     colors: []
+    //     colors: [],
+    //     availability: ['paper']
     // },
 ];
 
@@ -797,6 +816,18 @@ export default function Page() {
                                                 );
                                             })
                                         }
+                                    </div>
+                                    
+                                    <div className="deck-availability absolute top-1/50">
+                                        <div className="flex">
+                                            {
+                                                deck.availability.map((item, i) => {
+                                                    return (
+                                                        <span className="bg-purple-500 text-white text-sm uppercase font-semibold rounded-full py-1 px-2 mr-1">{item}</span>
+                                                    );
+                                                })
+                                            }
+                                        </div>
                                     </div>
                                     
                                     <div className="flex flex-wrap items-end justify-center">
